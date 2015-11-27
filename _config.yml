@@ -22,7 +22,7 @@ youtube: http://youtube.com/digikriti
 feed: yes
 
 # Footer
-copyright: © 2015 Digikrit - All rights reserved | Built with jekyll theme - <a style="color:white" href="https://github.com/obaez/dentistsmile">DentistSmile</a>
+copyright: © 2015 <a style="color:white" href="http://digikrit.com">Digikrit</a> - All rights reserved | Built with jekyll theme - <a style="color:white" href="https://github.com/obaez/dentistsmile">DentistSmile</a>
 
 # Build settings
 markdown: kramdown

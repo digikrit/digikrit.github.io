@@ -1,2 +1,4 @@
-# digikrit.github.io
-Digikrit site for open source projects on github
+# Digikrit Github Open Source Projects
+
+Various open source projects hosted on github.
+

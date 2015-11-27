@@ -1,0 +1,43 @@
+# Site settings
+title: Digikrit | Open Source Projects
+description: "Open source projects on github."
+baseurl: "/digikrit/github/digikrit.github.io/_site/" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: images/logo.png
+
+# Hero
+hero: 
+    hero_img: hero.png
+    hero_title: Digikrit Open Source
+    hero_description: Building upon and collaborating with open source community.
+
+# Contact form
+api_token: # Enter API token here
+
+# Social settings
+facebook: http://facebook.com/digikrit
+twitter: http://twitter.com/digikrit
+instagram: http://instagram.com/digikrit
+youtube: http://youtube.com/digikriti
+feed: yes
+
+# Footer
+copyright: © 2015 Digikrit - All rights reserved | Built with jekyll theme - <a style="color:white" href="https://github.com/obaez/dentistsmile">DentistSmile</a>
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    bower.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: UA-67822772-1
+google_verification:

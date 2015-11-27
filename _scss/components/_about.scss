@@ -1,0 +1,9 @@
+/* ABOUT
+-------------------------------------------------*/
+.about {
+    @extend %space;
+    background: url("../images/bg.png") repeat;
+    .media {
+        margin-bottom: $space;
+    }
+}

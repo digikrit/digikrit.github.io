@@ -1,0 +1,14 @@
+- icon: icon-star
+  title: Krishakanam
+  description: Application to visualize & analyze agriculture related data for farmers, institutes & companies
+  url: https://github.com/digikrit/krishakanam
+
+- icon: icon-diamond
+  title: MasterMetaData
+  description: Organize & manage master meta data, built on top of <a href="https://github.com/mashape/kong">kong</a> api gateway
+  url: https://github.com/digikrit/mastermetadata
+
+- icon: icon-flask
+  title: Vaachak
+  description: ASR (Automatic Speech Recognition) & TTS (Text To Speech) for Indian languages
+  url: https://github.com/digikrit/vaachak

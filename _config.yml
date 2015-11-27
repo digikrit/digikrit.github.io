@@ -9,7 +9,7 @@ logo_url: images/logo.png
 hero: 
     hero_img: hero.png
     hero_title: Digikrit Open Source
-    hero_description: Building upon and collaborating with open source community.
+    hero_description: Building upon open source and collaborating with the community.
 
 # Contact form
 api_token: # Enter API token here

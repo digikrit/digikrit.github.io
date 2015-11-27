@@ -1,7 +1,7 @@
 # Site settings
 title: Digikrit | Open Source Projects
 description: "Open source projects on github."
-baseurl: "/digikrit/github/digikrit.github.io/_site/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: images/logo.png
 
